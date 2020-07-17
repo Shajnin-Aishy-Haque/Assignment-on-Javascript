@@ -35,7 +35,7 @@ function brickCalculator(floor){
     
     if(floor != Math.ceil(floor) || floor < 1)
     {
-        return("Input cannot be a fructional number or less than 1!!!")
+        return("Input cannot be a fructional number or less than 1!!!");
     }
     else{
             var brickNeed;
